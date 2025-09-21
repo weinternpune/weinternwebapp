@@ -1,7 +1,9 @@
 # WeIntern - Internship & Job Portal
 
-A platform that connects students with internships, projects, and real-world learning. Features include internship listings, dashboards, application tracking, and task management.
 ![WeIntern Banner](https://media.licdn.com/dms/image/v2/D4D0BAQHWluK5kMV56g/company-logo_200_200/company-logo_200_200/0/1736077351822/weinternx_logo?e=1761177600&v=beta&t=dDP2VZ6eLVcFjSvKOi0Ngn8HbtyLCqcGRewHDf_1SDY)
+
+
+A platform that connects students with internships, projects, and real-world learning. Features include internship listings, dashboards, application tracking, and task management.
 
 ---
 
